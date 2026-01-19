@@ -5,8 +5,7 @@ A React + TypeScript application that displays artwork data from the Art Institu
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-project-name.netlify.app  
-(Replace with your actual Netlify URL)
+🔗 https://stellular-pothos-521c06.netlify.app/
 
 ---
 
