@@ -10,20 +10,19 @@ A React + TypeScript application that displays artwork data from the Art Institu
 ---
 
 ## 📦 GitHub Repository
-🔗 https://github.com/your-username/art-institute-table  
-(Replace with your actual GitHub repo link)
+🔗 https://github.com/Krisha1708/art-institute-table.git
 
 ---
 
 ## 📌 Features
 
-- ⚛️ Built with **React + TypeScript**
+- ⚛️ Built with *React + TypeScript*
 - 📊 Data table to display artwork information
-- 🌐 Fetches data from **Art Institute of Chicago API**
-- 🔄 **Server-side pagination**
-- ✅ **Row selection**
-- 💾 **Persistent row selection** across pages
-- 📱 Fully **responsive design**
+- 🌐 Fetches data from *Art Institute of Chicago API*
+- 🔄 *Server-side pagination*
+- ✅ *Row selection*
+- 💾 *Persistent row selection* across pages
+- 📱 Fully *responsive design*
 - 🧼 Clean and modular file structure
 
 ---
@@ -46,5 +45,3 @@ A React + TypeScript application that displays artwork data from the Art Institu
 - CSS (Responsive)
 - Fetch API
 - Netlify (Deployment)
-
----
